@@ -1,0 +1,387 @@
+INFO:root:Current video: BKS
+INFO:root:Shape: 240x416
+INFO:root:*********************************
+INFO:root:----- Per video, level pair -----
+INFO:root:Video: BKS, Level: 7 PSNR: 24.27229367476618
+INFO:root:Video: BKS, Level: 7 bpp: 0.20503033748417976
+INFO:root:*********************************
+INFO:root:----- Per video, level, frame type pair -----
+INFO:root:Video: BKS, Frame: B, Level: 7 PSNR: 23.376118100065202
+INFO:root:Video: BKS, Frame: B, Level: 7 bpp: 0.18955003689788055
+INFO:root:Video: BKS, Frame: I, Level: 7 PSNR: 30.062966618987875
+INFO:root:Video: BKS, Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:*********************************
+INFO:root:-------------------------------
+INFO:root:----- Per frame type, level pair -----
+INFO:root:Frame: B, Level: 7 PSNR: 23.376118100065202
+INFO:root:Frame: B, Level: 7 bpp: 0.18955003689788055
+INFO:root:Frame: I, Level: 7 PSNR: 30.062966618987875
+INFO:root:Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:---------------------------------
+INFO:root:----- Per Level -----
+INFO:root:Level 7 PSNR: 24.27229367476618
+INFO:root:Level 7 bpp: 0.20503033748417976
+INFO:root:---------------------------------
+INFO:root:*********************************
+INFO:root:----- Per level, frame type pair -----
+INFO:root:Frame Num: 0.0, Level: 7 PSNR: 30.062966618987875
+INFO:root:Frame Num: 0.0, Level: 7 bpp: 0.3050568951187284
+INFO:root:Frame Num: 1.0, Level: 7 PSNR: 24.506591487571836
+INFO:root:Frame Num: 1.0, Level: 7 bpp: 0.16891282623649662
+INFO:root:Frame Num: 2.0, Level: 7 PSNR: 23.555435302053095
+INFO:root:Frame Num: 2.0, Level: 7 bpp: 0.19788586471834754
+INFO:root:Frame Num: 3.0, Level: 7 PSNR: 22.543553018242832
+INFO:root:Frame Num: 3.0, Level: 7 bpp: 0.1808166632285485
+INFO:root:Frame Num: 4.0, Level: 7 PSNR: 23.02595147214483
+INFO:root:Frame Num: 4.0, Level: 7 bpp: 0.24350737638962575
+INFO:root:Frame Num: 5.0, Level: 7 PSNR: 22.507792485199786
+INFO:root:Frame Num: 5.0, Level: 7 bpp: 0.1780142530416831
+INFO:root:Frame Num: 6.0, Level: 7 PSNR: 23.340037124394893
+INFO:root:Frame Num: 6.0, Level: 7 bpp: 0.19056183527677487
+INFO:root:Frame Num: 7.0, Level: 7 PSNR: 24.15346581084914
+INFO:root:Frame Num: 7.0, Level: 7 bpp: 0.16715143939368746
+INFO:root:*********************************
+INFO:root:Current video: BKS
+INFO:root:Shape: 240x416
+INFO:root:*********************************
+INFO:root:----- Per video, level pair -----
+INFO:root:Video: BKS, Level: 7 PSNR: 24.27229458911528
+INFO:root:Video: BKS, Level: 7 bpp: 0.20503033748417976
+INFO:root:*********************************
+INFO:root:----- Per video, level, frame type pair -----
+INFO:root:Video: BKS, Frame: B, Level: 7 PSNR: 23.37611922674103
+INFO:root:Video: BKS, Frame: B, Level: 7 bpp: 0.18955003689788055
+INFO:root:Video: BKS, Frame: I, Level: 7 PSNR: 30.062966161379677
+INFO:root:Video: BKS, Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:*********************************
+INFO:root:-------------------------------
+INFO:root:----- Per frame type, level pair -----
+INFO:root:Frame: B, Level: 7 PSNR: 23.37611922674103
+INFO:root:Frame: B, Level: 7 bpp: 0.18955003689788055
+INFO:root:Frame: I, Level: 7 PSNR: 30.062966161379677
+INFO:root:Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:---------------------------------
+INFO:root:----- Per Level -----
+INFO:root:Level 7 PSNR: 24.27229458911528
+INFO:root:Level 7 bpp: 0.20503033748417976
+INFO:root:---------------------------------
+INFO:root:*********************************
+INFO:root:----- Per level, frame type pair -----
+INFO:root:Frame Num: 0.0, Level: 7 PSNR: 30.062966161379677
+INFO:root:Frame Num: 0.0, Level: 7 bpp: 0.3050568951187284
+INFO:root:Frame Num: 1.0, Level: 7 PSNR: 24.50659678983366
+INFO:root:Frame Num: 1.0, Level: 7 bpp: 0.16891282623649662
+INFO:root:Frame Num: 2.0, Level: 7 PSNR: 23.555439887817183
+INFO:root:Frame Num: 2.0, Level: 7 bpp: 0.19788586471834754
+INFO:root:Frame Num: 3.0, Level: 7 PSNR: 22.54355552460566
+INFO:root:Frame Num: 3.0, Level: 7 bpp: 0.1808166632285485
+INFO:root:Frame Num: 4.0, Level: 7 PSNR: 23.025948233433123
+INFO:root:Frame Num: 4.0, Level: 7 bpp: 0.24350737638962575
+INFO:root:Frame Num: 5.0, Level: 7 PSNR: 22.507791134774624
+INFO:root:Frame Num: 5.0, Level: 7 bpp: 0.1780142530416831
+INFO:root:Frame Num: 6.0, Level: 7 PSNR: 23.340035382712387
+INFO:root:Frame Num: 6.0, Level: 7 bpp: 0.19056183527677487
+INFO:root:Frame Num: 7.0, Level: 7 PSNR: 24.15346763401055
+INFO:root:Frame Num: 7.0, Level: 7 bpp: 0.16715143939368746
+INFO:root:*********************************
+INFO:root:Current video: BKS
+INFO:root:Shape: 240x416
+INFO:root:*********************************
+INFO:root:----- Per video, level pair -----
+INFO:root:Video: BKS, Level: 7 PSNR: 24.307286418966044
+INFO:root:Video: BKS, Level: 7 bpp: 0.21187687972661462
+INFO:root:*********************************
+INFO:root:----- Per video, level, frame type pair -----
+INFO:root:Video: BKS, Frame: B, Level: 7 PSNR: 23.416526533265067
+INFO:root:Video: BKS, Frame: B, Level: 7 bpp: 0.19745616305878746
+INFO:root:Video: BKS, Frame: I, Level: 7 PSNR: 30.062965680418547
+INFO:root:Video: BKS, Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:*********************************
+INFO:root:-------------------------------
+INFO:root:----- Per frame type, level pair -----
+INFO:root:Frame: B, Level: 7 PSNR: 23.416526533265067
+INFO:root:Frame: B, Level: 7 bpp: 0.19745616305878746
+INFO:root:Frame: I, Level: 7 PSNR: 30.062965680418547
+INFO:root:Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:---------------------------------
+INFO:root:----- Per Level -----
+INFO:root:Level 7 PSNR: 24.307286418966044
+INFO:root:Level 7 bpp: 0.21187687972661462
+INFO:root:---------------------------------
+INFO:root:*********************************
+INFO:root:----- Per level, frame type pair -----
+INFO:root:Frame Num: 0.0, Level: 7 PSNR: 30.062965680418547
+INFO:root:Frame Num: 0.0, Level: 7 bpp: 0.3050568951187284
+INFO:root:Frame Num: 1.0, Level: 7 PSNR: 24.340942243578098
+INFO:root:Frame Num: 1.0, Level: 7 bpp: 0.17437079085244073
+INFO:root:Frame Num: 2.0, Level: 7 PSNR: 23.560964226784634
+INFO:root:Frame Num: 2.0, Level: 7 bpp: 0.20483410613149658
+INFO:root:Frame Num: 3.0, Level: 7 PSNR: 22.62878867647314
+INFO:root:Frame Num: 3.0, Level: 7 bpp: 0.18456194237766102
+INFO:root:Frame Num: 4.0, Level: 7 PSNR: 23.14281065998051
+INFO:root:Frame Num: 4.0, Level: 7 bpp: 0.2634993902638427
+INFO:root:Frame Num: 5.0, Level: 7 PSNR: 22.590375431608678
+INFO:root:Frame Num: 5.0, Level: 7 bpp: 0.18260810955976828
+INFO:root:Frame Num: 6.0, Level: 7 PSNR: 23.432994252174833
+INFO:root:Frame Num: 6.0, Level: 7 bpp: 0.20007076548714922
+INFO:root:Frame Num: 7.0, Level: 7 PSNR: 24.21881024225557
+INFO:root:Frame Num: 7.0, Level: 7 bpp: 0.17224803673915373
+INFO:root:*********************************
+INFO:root:Current video: BKS
+INFO:root:Shape: 240x416
+INFO:root:*********************************
+INFO:root:----- Per video, level pair -----
+INFO:root:Video: BKS, Level: 7 PSNR: 24.391119982428485
+INFO:root:Video: BKS, Level: 7 bpp: 0.21540458958015976
+INFO:root:*********************************
+INFO:root:----- Per video, level, frame type pair -----
+INFO:root:Video: BKS, Frame: B, Level: 7 PSNR: 23.51333423415527
+INFO:root:Video: BKS, Frame: B, Level: 7 bpp: 0.2015298280087146
+INFO:root:Video: BKS, Frame: I, Level: 7 PSNR: 30.062966355886203
+INFO:root:Video: BKS, Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:*********************************
+INFO:root:-------------------------------
+INFO:root:----- Per frame type, level pair -----
+INFO:root:Frame: B, Level: 7 PSNR: 23.51333423415527
+INFO:root:Frame: B, Level: 7 bpp: 0.2015298280087146
+INFO:root:Frame: I, Level: 7 PSNR: 30.062966355886203
+INFO:root:Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:---------------------------------
+INFO:root:----- Per Level -----
+INFO:root:Level 7 PSNR: 24.391119982428485
+INFO:root:Level 7 bpp: 0.21540458958015976
+INFO:root:---------------------------------
+INFO:root:*********************************
+INFO:root:----- Per level, frame type pair -----
+INFO:root:Frame Num: 0.0, Level: 7 PSNR: 30.062966355886203
+INFO:root:Frame Num: 0.0, Level: 7 bpp: 0.3050568951187284
+INFO:root:Frame Num: 1.0, Level: 7 PSNR: 24.614400381043854
+INFO:root:Frame Num: 1.0, Level: 7 bpp: 0.17662346424200595
+INFO:root:Frame Num: 2.0, Level: 7 PSNR: 23.709820835219983
+INFO:root:Frame Num: 2.0, Level: 7 bpp: 0.21017833948135375
+INFO:root:Frame Num: 3.0, Level: 7 PSNR: 22.785014296700183
+INFO:root:Frame Num: 3.0, Level: 7 bpp: 0.18699541998724653
+INFO:root:Frame Num: 4.0, Level: 7 PSNR: 23.14073823118453
+INFO:root:Frame Num: 4.0, Level: 7 bpp: 0.2696197202063014
+INFO:root:Frame Num: 5.0, Level: 7 PSNR: 22.738449283586164
+INFO:root:Frame Num: 5.0, Level: 7 bpp: 0.1859495559309283
+INFO:root:Frame Num: 6.0, Level: 7 PSNR: 23.41938692968384
+INFO:root:Frame Num: 6.0, Level: 7 bpp: 0.20443350514795025
+INFO:root:Frame Num: 7.0, Level: 7 PSNR: 24.185529681668317
+INFO:root:Frame Num: 7.0, Level: 7 bpp: 0.17690879106521606
+INFO:root:*********************************
+INFO:root:Current video: BKS
+INFO:root:Shape: 240x416
+INFO:root:*********************************
+INFO:root:----- Per video, level pair -----
+INFO:root:Video: BKS, Level: 7 PSNR: 20.071218535847503
+INFO:root:Video: BKS, Level: 7 bpp: 0.6063757844743922
+INFO:root:*********************************
+INFO:root:----- Per video, level, frame type pair -----
+INFO:root:Video: BKS, Frame: B, Level: 7 PSNR: 18.524876644583085
+INFO:root:Video: BKS, Frame: B, Level: 7 bpp: 0.6530084697318165
+INFO:root:Video: BKS, Frame: I, Level: 7 PSNR: 30.06296614094069
+INFO:root:Video: BKS, Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:*********************************
+INFO:root:-------------------------------
+INFO:root:----- Per frame type, level pair -----
+INFO:root:Frame: B, Level: 7 PSNR: 18.524876644583085
+INFO:root:Frame: B, Level: 7 bpp: 0.6530084697318165
+INFO:root:Frame: I, Level: 7 PSNR: 30.06296614094069
+INFO:root:Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:---------------------------------
+INFO:root:----- Per Level -----
+INFO:root:Level 7 PSNR: 20.071218535847503
+INFO:root:Level 7 bpp: 0.6063757844743922
+INFO:root:---------------------------------
+INFO:root:*********************************
+INFO:root:----- Per level, frame type pair -----
+INFO:root:Frame Num: 0.0, Level: 7 PSNR: 30.06296614094069
+INFO:root:Frame Num: 0.0, Level: 7 bpp: 0.3050568951187284
+INFO:root:Frame Num: 1.0, Level: 7 PSNR: 18.402331164919094
+INFO:root:Frame Num: 1.0, Level: 7 bpp: 0.6533389181153387
+INFO:root:Frame Num: 2.0, Level: 7 PSNR: 18.521574039296897
+INFO:root:Frame Num: 2.0, Level: 7 bpp: 0.6513630329034268
+INFO:root:Frame Num: 3.0, Level: 7 PSNR: 18.47232853452337
+INFO:root:Frame Num: 3.0, Level: 7 bpp: 0.6484946112347464
+INFO:root:Frame Num: 4.0, Level: 7 PSNR: 18.511784568072198
+INFO:root:Frame Num: 4.0, Level: 7 bpp: 0.666166858184032
+INFO:root:Frame Num: 5.0, Level: 7 PSNR: 18.48668020812192
+INFO:root:Frame Num: 5.0, Level: 7 bpp: 0.6496069427229401
+INFO:root:Frame Num: 6.0, Level: 7 PSNR: 18.600208409838782
+INFO:root:Frame Num: 6.0, Level: 7 bpp: 0.6566777677617521
+INFO:root:Frame Num: 7.0, Level: 7 PSNR: 18.679229587309322
+INFO:root:Frame Num: 7.0, Level: 7 bpp: 0.6454111572004791
+INFO:root:*********************************
+INFO:root:Current video: BKS
+INFO:root:Shape: 240x416
+INFO:root:*********************************
+INFO:root:----- Per video, level pair -----
+INFO:root:Video: BKS, Level: 7 PSNR: 25.575417814181083
+INFO:root:Video: BKS, Level: 7 bpp: 0.3309260363809463
+INFO:root:*********************************
+INFO:root:----- Per video, level, frame type pair -----
+INFO:root:Video: BKS, Frame: B, Level: 7 PSNR: 23.632657585579604
+INFO:root:Video: BKS, Frame: B, Level: 7 bpp: 0.2032952373572176
+INFO:root:Video: BKS, Frame: I, Level: 7 PSNR: 38.12863775283681
+INFO:root:Video: BKS, Frame: I, Level: 7 bpp: 1.1556173531496547
+INFO:root:*********************************
+INFO:root:-------------------------------
+INFO:root:----- Per frame type, level pair -----
+INFO:root:Frame: B, Level: 7 PSNR: 23.632657585579604
+INFO:root:Frame: B, Level: 7 bpp: 0.2032952373572176
+INFO:root:Frame: I, Level: 7 PSNR: 38.12863775283681
+INFO:root:Frame: I, Level: 7 bpp: 1.1556173531496547
+INFO:root:---------------------------------
+INFO:root:----- Per Level -----
+INFO:root:Level 7 PSNR: 25.575417814181083
+INFO:root:Level 7 bpp: 0.3309260363809463
+INFO:root:---------------------------------
+INFO:root:*********************************
+INFO:root:----- Per level, frame type pair -----
+INFO:root:Frame Num: 0.0, Level: 7 PSNR: 38.12863775283681
+INFO:root:Frame Num: 0.0, Level: 7 bpp: 1.1556173531496547
+INFO:root:Frame Num: 1.0, Level: 7 PSNR: 24.88577746820518
+INFO:root:Frame Num: 1.0, Level: 7 bpp: 0.17754809622071746
+INFO:root:Frame Num: 2.0, Level: 7 PSNR: 23.844398660415084
+INFO:root:Frame Num: 2.0, Level: 7 bpp: 0.21253604247019842
+INFO:root:Frame Num: 3.0, Level: 7 PSNR: 22.85720062317211
+INFO:root:Frame Num: 3.0, Level: 7 bpp: 0.18797954249585797
+INFO:root:Frame Num: 4.0, Level: 7 PSNR: 23.120597966168116
+INFO:root:Frame Num: 4.0, Level: 7 bpp: 0.27583249440559976
+INFO:root:Frame Num: 5.0, Level: 7 PSNR: 22.806298947012422
+INFO:root:Frame Num: 5.0, Level: 7 bpp: 0.18613196417816683
+INFO:root:Frame Num: 6.0, Level: 7 PSNR: 23.521232904588974
+INFO:root:Frame Num: 6.0, Level: 7 bpp: 0.20569199761773785
+INFO:root:Frame Num: 7.0, Level: 7 PSNR: 24.393096529495338
+INFO:root:Frame Num: 7.0, Level: 7 bpp: 0.17734652411224497
+INFO:root:*********************************
+INFO:root:Current video: BKS
+INFO:root:Shape: 240x416
+INFO:root:*********************************
+INFO:root:----- Per video, level pair -----
+INFO:root:Video: BKS, Level: 7 PSNR: 24.58909475986408
+INFO:root:Video: BKS, Level: 7 bpp: 0.21259991885050875
+INFO:root:*********************************
+INFO:root:----- Per video, level, frame type pair -----
+INFO:root:Video: BKS, Frame: B, Level: 7 PSNR: 23.74194808259152
+INFO:root:Video: BKS, Frame: B, Level: 7 bpp: 0.19829110109471285
+INFO:root:Video: BKS, Frame: I, Level: 7 PSNR: 30.06296559762522
+INFO:root:Video: BKS, Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:*********************************
+INFO:root:-------------------------------
+INFO:root:----- Per frame type, level pair -----
+INFO:root:Frame: B, Level: 7 PSNR: 23.74194808259152
+INFO:root:Frame: B, Level: 7 bpp: 0.19829110109471285
+INFO:root:Frame: I, Level: 7 PSNR: 30.06296559762522
+INFO:root:Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:---------------------------------
+INFO:root:----- Per Level -----
+INFO:root:Level 7 PSNR: 24.58909475986408
+INFO:root:Level 7 bpp: 0.21259991885050875
+INFO:root:---------------------------------
+INFO:root:*********************************
+INFO:root:----- Per level, frame type pair -----
+INFO:root:Frame Num: 0.0, Level: 7 PSNR: 30.06296559762522
+INFO:root:Frame Num: 0.0, Level: 7 bpp: 0.3050568951187284
+INFO:root:Frame Num: 1.0, Level: 7 PSNR: 24.46705893175425
+INFO:root:Frame Num: 1.0, Level: 7 bpp: 0.176665389435923
+INFO:root:Frame Num: 2.0, Level: 7 PSNR: 23.689759786237236
+INFO:root:Frame Num: 2.0, Level: 7 bpp: 0.2055094415306026
+INFO:root:Frame Num: 3.0, Level: 7 PSNR: 23.089103787106684
+INFO:root:Frame Num: 3.0, Level: 7 bpp: 0.1854019256738516
+INFO:root:Frame Num: 4.0, Level: 7 PSNR: 23.2278060395705
+INFO:root:Frame Num: 4.0, Level: 7 bpp: 0.2599280248340378
+INFO:root:Frame Num: 5.0, Level: 7 PSNR: 23.108549202013492
+INFO:root:Frame Num: 5.0, Level: 7 bpp: 0.18352390038661467
+INFO:root:Frame Num: 6.0, Level: 7 PSNR: 23.799936505513788
+INFO:root:Frame Num: 6.0, Level: 7 bpp: 0.20204960841398972
+INFO:root:Frame Num: 7.0, Level: 7 PSNR: 24.811422325944687
+INFO:root:Frame Num: 7.0, Level: 7 bpp: 0.1749594173879705
+INFO:root:*********************************
+INFO:root:Current video: BKS
+INFO:root:Shape: 240x416
+INFO:root:*********************************
+INFO:root:----- Per video, level pair -----
+INFO:root:Video: BKS, Level: 7 PSNR: 22.584159287293694
+INFO:root:Video: BKS, Level: 7 bpp: 0.2517936996703989
+INFO:root:*********************************
+INFO:root:----- Per video, level, frame type pair -----
+INFO:root:Video: BKS, Frame: B, Level: 7 PSNR: 21.426725063895496
+INFO:root:Video: BKS, Frame: B, Level: 7 bpp: 0.24355058608910976
+INFO:root:Video: BKS, Frame: I, Level: 7 PSNR: 30.062965038482073
+INFO:root:Video: BKS, Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:*********************************
+INFO:root:-------------------------------
+INFO:root:----- Per frame type, level pair -----
+INFO:root:Frame: B, Level: 7 PSNR: 21.426725063895496
+INFO:root:Frame: B, Level: 7 bpp: 0.24355058608910976
+INFO:root:Frame: I, Level: 7 PSNR: 30.062965038482073
+INFO:root:Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:---------------------------------
+INFO:root:----- Per Level -----
+INFO:root:Level 7 PSNR: 22.584159287293694
+INFO:root:Level 7 bpp: 0.2517936996703989
+INFO:root:---------------------------------
+INFO:root:*********************************
+INFO:root:----- Per level, frame type pair -----
+INFO:root:Frame Num: 0.0, Level: 7 PSNR: 30.062965038482073
+INFO:root:Frame Num: 0.0, Level: 7 bpp: 0.3050568951187284
+INFO:root:Frame Num: 1.0, Level: 7 PSNR: 21.90673974975653
+INFO:root:Frame Num: 1.0, Level: 7 bpp: 0.21490745147069296
+INFO:root:Frame Num: 2.0, Level: 7 PSNR: 21.6320027577941
+INFO:root:Frame Num: 2.0, Level: 7 bpp: 0.2460906365997771
+INFO:root:Frame Num: 3.0, Level: 7 PSNR: 20.38508920044981
+INFO:root:Frame Num: 3.0, Level: 7 bpp: 0.2366857630574805
+INFO:root:Frame Num: 4.0, Level: 7 PSNR: 21.694155984594172
+INFO:root:Frame Num: 4.0, Level: 7 bpp: 0.2866045032810961
+INFO:root:Frame Num: 5.0, Level: 7 PSNR: 20.397620067571378
+INFO:root:Frame Num: 5.0, Level: 7 bpp: 0.2472282609369001
+INFO:root:Frame Num: 6.0, Level: 7 PSNR: 21.743055645687893
+INFO:root:Frame Num: 6.0, Level: 7 bpp: 0.2504215545124478
+INFO:root:Frame Num: 7.0, Level: 7 PSNR: 22.228412041414575
+INFO:root:Frame Num: 7.0, Level: 7 bpp: 0.2229159327653738
+INFO:root:*********************************
+INFO:root:Current video: BKS
+INFO:root:Shape: 240x416
+INFO:root:*********************************
+INFO:root:----- Per video, level pair -----
+INFO:root:Video: BKS, Level: 7 PSNR: 24.419437878235918
+INFO:root:Video: BKS, Level: 7 bpp: 0.23331355809094004
+INFO:root:*********************************
+INFO:root:----- Per video, level, frame type pair -----
+INFO:root:Video: BKS, Frame: B, Level: 7 PSNR: 23.54603465647671
+INFO:root:Video: BKS, Frame: B, Level: 7 bpp: 0.2222104225985442
+INFO:root:Video: BKS, Frame: I, Level: 7 PSNR: 30.062966388064655
+INFO:root:Video: BKS, Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:*********************************
+INFO:root:-------------------------------
+INFO:root:----- Per frame type, level pair -----
+INFO:root:Frame: B, Level: 7 PSNR: 23.54603465647671
+INFO:root:Frame: B, Level: 7 bpp: 0.2222104225985442
+INFO:root:Frame: I, Level: 7 PSNR: 30.062966388064655
+INFO:root:Frame: I, Level: 7 bpp: 0.3050568951187284
+INFO:root:---------------------------------
+INFO:root:----- Per Level -----
+INFO:root:Level 7 PSNR: 24.419437878235918
+INFO:root:Level 7 bpp: 0.23331355809094004
+INFO:root:---------------------------------
+INFO:root:*********************************
+INFO:root:----- Per level, frame type pair -----
+INFO:root:Frame Num: 0.0, Level: 7 PSNR: 30.062966388064655
+INFO:root:Frame Num: 0.0, Level: 7 bpp: 0.3050568951187284
+INFO:root:Frame Num: 1.0, Level: 7 PSNR: 24.579292956652097
+INFO:root:Frame Num: 1.0, Level: 7 bpp: 0.18387666339548225
+INFO:root:Frame Num: 2.0, Level: 7 PSNR: 23.816091814958952
+INFO:root:Frame Num: 2.0, Level: 7 bpp: 0.2356809000683646
+INFO:root:Frame Num: 3.0, Level: 7 PSNR: 22.935376715379817
+INFO:root:Frame Num: 3.0, Level: 7 bpp: 0.20549509453977274
+INFO:root:Frame Num: 4.0, Level: 7 PSNR: 23.198372114245974
+INFO:root:Frame Num: 4.0, Level: 7 bpp: 0.3135739502743778
+INFO:root:Frame Num: 5.0, Level: 7 PSNR: 22.826631904537994
+INFO:root:Frame Num: 5.0, Level: 7 bpp: 0.20205765575425239
+INFO:root:Frame Num: 6.0, Level: 7 PSNR: 23.386706950079187
+INFO:root:Frame Num: 6.0, Level: 7 bpp: 0.23102089441739596
+INFO:root:Frame Num: 7.0, Level: 7 PSNR: 24.079770139482946
+INFO:root:Frame Num: 7.0, Level: 7 bpp: 0.1837677997401637
+INFO:root:*********************************

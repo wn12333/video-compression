@@ -1,0 +1,301 @@
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 50
+INFO:root:distortion loss: 11.969879575967788
+INFO:root:rate loss: 0.15378053173422812
+INFO:root:train loss: 12.123660125732421
+INFO:root:aux loss: 5270.970009765625
+INFO:root:**************
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 100
+INFO:root:distortion loss: 8.874358656406402
+INFO:root:rate loss: 0.13687718465924262
+INFO:root:train loss: 9.011235879659653
+INFO:root:aux loss: 5261.784072265625
+INFO:root:**************
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 150
+INFO:root:distortion loss: 5.800941364765167
+INFO:root:rate loss: 0.1195052108168602
+INFO:root:train loss: 5.9204465675354
+INFO:root:aux loss: 5251.031259765625
+INFO:root:**************
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 200
+INFO:root:distortion loss: 6.321023221611977
+INFO:root:rate loss: 0.10951577782630921
+INFO:root:train loss: 6.430538936257363
+INFO:root:aux loss: 5239.25052734375
+INFO:root:**************
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 250
+INFO:root:distortion loss: 5.173671234250069
+INFO:root:rate loss: 0.11599901929497719
+INFO:root:train loss: 5.289670205116272
+INFO:root:aux loss: 5228.69689453125
+INFO:root:**************
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 300
+INFO:root:distortion loss: 3.6832968765497207
+INFO:root:rate loss: 0.11227929472923279
+INFO:root:train loss: 3.7955761647224424
+INFO:root:aux loss: 5215.704140625
+INFO:root:**************
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 350
+INFO:root:distortion loss: 4.603720469474792
+INFO:root:rate loss: 0.11093525722622871
+INFO:root:train loss: 4.714655735492706
+INFO:root:aux loss: 5201.496259765625
+INFO:root:**************
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 400
+INFO:root:distortion loss: 4.155355618596077
+INFO:root:rate loss: 0.10306918784976006
+INFO:root:train loss: 4.258424789309502
+INFO:root:aux loss: 5187.86142578125
+INFO:root:**************
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 450
+INFO:root:distortion loss: 3.757859894633293
+INFO:root:rate loss: 0.09841500729322433
+INFO:root:train loss: 3.856274937391281
+INFO:root:aux loss: 5173.702529296875
+INFO:root:**************
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 500
+INFO:root:distortion loss: 3.178601115643978
+INFO:root:rate loss: 0.10337912663817406
+INFO:root:train loss: 3.281980236172676
+INFO:root:aux loss: 5155.86615234375
+INFO:root:**************
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 550
+INFO:root:distortion loss: 4.536538668125868
+INFO:root:rate loss: 0.1070048975944519
+INFO:root:train loss: 4.643543565273285
+INFO:root:aux loss: 5137.37041015625
+INFO:root:**************
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 600
+INFO:root:distortion loss: 3.4336808198690414
+INFO:root:rate loss: 0.10149469256401061
+INFO:root:train loss: 3.535175500512123
+INFO:root:aux loss: 5120.57107421875
+INFO:root:**************
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:number of compress parameters: 22087357
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:26:52 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 50
+INFO:root:distortion loss: 12.425732502937317
+INFO:root:rate loss: 0.13766441822052003
+INFO:root:train loss: 12.563396899700164
+INFO:root:aux loss: 5270.8925
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:27:22 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 100
+INFO:root:distortion loss: 6.838720818161964
+INFO:root:rate loss: 0.13996729969978333
+INFO:root:train loss: 6.978688138723373
+INFO:root:aux loss: 5258.587880859375
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:27:53 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 150
+INFO:root:distortion loss: 8.060120897293091
+INFO:root:rate loss: 0.1216419318318367
+INFO:root:train loss: 8.181762822866439
+INFO:root:aux loss: 5247.314677734375
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:28:24 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 200
+INFO:root:distortion loss: 4.637052620053291
+INFO:root:rate loss: 0.10833239957690238
+INFO:root:train loss: 4.7453850293159485
+INFO:root:aux loss: 5235.48052734375
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:28:55 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 250
+INFO:root:distortion loss: 5.932550922334194
+INFO:root:rate loss: 0.10920284152030944
+INFO:root:train loss: 6.041753731966018
+INFO:root:aux loss: 5223.633046875
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:29:25 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 300
+INFO:root:distortion loss: 3.309083260893822
+INFO:root:rate loss: 0.0989648449420929
+INFO:root:train loss: 3.4080481052398683
+INFO:root:aux loss: 5208.19119140625
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:29:56 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 350
+INFO:root:distortion loss: 5.400923527181148
+INFO:root:rate loss: 0.10489459037780761
+INFO:root:train loss: 5.505818112492562
+INFO:root:aux loss: 5192.09560546875
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:30:27 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 400
+INFO:root:distortion loss: 3.3830495893955232
+INFO:root:rate loss: 0.10338976293802261
+INFO:root:train loss: 3.4864393323659897
+INFO:root:aux loss: 5177.984296875
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:30:58 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 450
+INFO:root:distortion loss: 3.2346972042322157
+INFO:root:rate loss: 0.09545355334877968
+INFO:root:train loss: 3.3301507872343064
+INFO:root:aux loss: 5162.564697265625
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:31:29 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 500
+INFO:root:distortion loss: 4.278773853778839
+INFO:root:rate loss: 0.10508543089032173
+INFO:root:train loss: 4.383859275579453
+INFO:root:aux loss: 5148.426123046875
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:31:59 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 550
+INFO:root:distortion loss: 2.9372774863243105
+INFO:root:rate loss: 0.10009939596056938
+INFO:root:train loss: 3.0373768892884256
+INFO:root:aux loss: 5134.965068359375
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:32:30 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 600
+INFO:root:distortion loss: 3.234114500880241
+INFO:root:rate loss: 0.093515335470438
+INFO:root:train loss: 3.327629854083061
+INFO:root:aux loss: 5118.107763671875
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:33:01 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 650
+INFO:root:distortion loss: 3.0760296988487243
+INFO:root:rate loss: 0.0980821454524994
+INFO:root:train loss: 3.1741118311882017
+INFO:root:aux loss: 5100.0258984375
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:33:32 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 700
+INFO:root:distortion loss: 3.651825431585312
+INFO:root:rate loss: 0.09674128532409668
+INFO:root:train loss: 3.7485667276382446
+INFO:root:aux loss: 5087.654677734375
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:34:02 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 750
+INFO:root:distortion loss: 2.9982478676736353
+INFO:root:rate loss: 0.09627988919615746
+INFO:root:train loss: 3.0945277485251426
+INFO:root:aux loss: 5069.65396484375
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:34:33 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 800
+INFO:root:distortion loss: 3.125846966505051
+INFO:root:rate loss: 0.09190801918506622
+INFO:root:train loss: 3.2177549982070923
+INFO:root:aux loss: 5048.924306640625
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:35:04 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 850
+INFO:root:distortion loss: 3.0289050906896593
+INFO:root:rate loss: 0.09940407261252403
+INFO:root:train loss: 3.128309172987938
+INFO:root:aux loss: 5031.022822265625
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:35:34 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 900
+INFO:root:distortion loss: 4.398014013469219
+INFO:root:rate loss: 0.0923120115697384
+INFO:root:train loss: 4.490326036810875
+INFO:root:aux loss: 5014.169580078125
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:36:05 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 950
+INFO:root:distortion loss: 2.543975431472063
+INFO:root:rate loss: 0.09261338457465172
+INFO:root:train loss: 2.6365888041257857
+INFO:root:aux loss: 4995.303203125
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:36:36 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 1000
+INFO:root:distortion loss: 2.7539109885692596
+INFO:root:rate loss: 0.09043705150485039
+INFO:root:train loss: 2.8443480587005614
+INFO:root:aux loss: 4976.31353515625
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:37:07 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 1050
+INFO:root:distortion loss: 2.8419810461997987
+INFO:root:rate loss: 0.08852276638150215
+INFO:root:train loss: 2.9305038374662398
+INFO:root:aux loss: 4956.213681640625
+INFO:root:**************
+INFO:root:Training started at: Sun Nov  5 21:26:15 2023
+INFO:root:Current time: Sun Nov  5 21:37:37 2023
+INFO:root:learning rate: 0.0001
+INFO:root:iterations: 1100
+INFO:root:distortion loss: 2.917807992696762
+INFO:root:rate loss: 0.08683964878320694
+INFO:root:train loss: 3.0046476155519484
+INFO:root:aux loss: 4939.428544921875
+INFO:root:**************
+INFO:root:number of compress parameters: 22087357
